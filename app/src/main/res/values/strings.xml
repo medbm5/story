@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tale App</string>
+    <string name="content">الاربفات ىنا البلببل تنخ مخعاغ لبق قلاغ</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    //interstisial ad that shows when I click on start menu
+
+
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/2177258514</string>
+
+
+</resources>
